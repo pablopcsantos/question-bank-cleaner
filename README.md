@@ -785,11 +785,3 @@ Aplicação desktop utilitária desenvolvida de forma independente por **Pablo P
 O desenvolvimento contou com a utilização de ferramentas de inteligência artificial generativa como recurso auxiliar no processo de desenvolvimento, mantendo-se sob responsabilidade do autor a concepção, implementação, integração e verificação do projeto.
 
 Currículo Lattes: [http://lattes.cnpq.br/9500873674712528](http://lattes.cnpq.br/9500873674712528)
-
----
-
-## Licença
-
-Nenhuma licença de software foi definida nesta versão do projeto.
-
-Antes de publicar ou distribuir o código sob uma licença específica, escolha conscientemente os termos de uso, modificação e redistribuição que deseja conceder.
