@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+.venv-*/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Ferramentas/IDE
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Saídas geradas pelo Question Bank Cleaner
+banco_questoes_limpo.js
+questoes_removidas.txt
+questoes_conflitantes.txt
+questoes_conflitantes_resolvidas.txt
+questoes_possiveis_duplicatas.txt
+questoes_possiveis_duplicatas_resolvidas.txt
+saida_question_bank_cleaner/

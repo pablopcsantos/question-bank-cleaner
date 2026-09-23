@@ -1,0 +1,25 @@
+{
+  "project": "Question Bank Cleaner",
+  "version": "1.1.0",
+  "entrypoint_gui": "app.py",
+  "entrypoint_cli": "cli.py",
+  "default_theme": "dark",
+  "icon_source_recommended": "SVG",
+  "windows_icon_expected": "assets/question_bank_cleaner.ico",
+  "portable_build": "build_windows.bat",
+  "github_actions": ".github/workflows/build-windows.yml",
+  "icon_assets": {
+    "ico": "assets/question_bank_cleaner.ico",
+    "svg_source": "assets/question_bank_cleaner.svg",
+    "png_fallback": "assets/question_bank_cleaner.png",
+    "ico_sizes": [
+      "16x16",
+      "24x24",
+      "32x32",
+      "48x48",
+      "64x64",
+      "128x128",
+      "256x256"
+    ]
+  }
+}
