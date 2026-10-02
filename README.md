@@ -1,5 +1,9 @@
 # Question Bank Cleaner
 
+*Read this in other languages: [English](README-en.md)*
+
+---
+
 Aplicação desktop utilitária para **análise e deduplicação assistida de bancos de questões** armazenados em JavaScript/JSON.
 
 O projeto nasceu a partir de um script de linha de comando e foi reorganizado para oferecer uma **interface gráfica (GUI)** voltada também a pessoas sem familiaridade com terminal. O motor original de comparação foi preservado, incluindo remoção automática de duplicatas de alta confiança, identificação de casos ambíguos, relatórios de auditoria e revisão humana antes da aplicação de decisões.
